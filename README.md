@@ -14,7 +14,7 @@ In this homework, you are given a part of a program and a terminal output of two
 In this project, you are asked to design a shell named npshell. Please refer to the attached files for further information and submission rules.
 
 ## Project 2 
-> Score: 96
+> Score: 96 (multi的測資貌似有一個不對)
 
 In this project, you are asked to design 3 kinds of servers:
 1. Design a Concurrent connection-oriented server. This server allows one client connect to it.
