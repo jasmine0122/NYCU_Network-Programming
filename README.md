@@ -31,6 +31,7 @@ In this project, you are asked to implement a simple HTTP server called http_ser
 > Score: 80
 
 In this project, you are going to implement SOCKS 4/4A protocol.
-p.s. 我那時候不會測cgi，不知道是啥問題XD
+
+p.s. 我那時候不會測cgi，不知道是啥問題，好白癡XD
 
 
